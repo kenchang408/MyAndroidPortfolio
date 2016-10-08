@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_a5aee9fc887cab6b1d634ed603fe5d6827a717ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_384968dd7a3af5089015f958ec21dad323fa2eec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8bf8a850159d51db3d5209dd36282f8cc2e4d5cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_625c12eb4a9138ec5b020b867eaa1b2e0d88ab98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1474ecfe28838a20ee694781e69818228e6ef160/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de489d9ec1f04a53f4f562874dda825ef818dcbc">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dbe5f0df6c9178771f7e348cb619dc591d586a4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_c33221ec75b41e7be0710d3b8357a8d943b932da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ddd589786c026d453c2fe34b7c66c4e0f90a19da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9f15fe4376e5a8af2ffc7a3415a83821a47178a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3562bdd27639c6b19be3a7732e88b254e29057a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_55b6683f694cabe922b1efd7856f45e8a7cc0d41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="754e36e01e867974b822a7b8174db34a9c272997">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e627bd4f2db9b8058cf216ca5690113a6d565008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c8882794b05b2fb37e1bb22dd44279caaf453769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9271d7f71c582353d4f76afc483e0119bd8f53eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c7d98538c4b270704babd01b74eda10c996a337a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_d987726b76b0e08be7e05e7d1a06bbb659b6a4b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/piggy/AndroidStudioProjects/MyPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_20401f3f35398d6a9918c915d8008f5f1856be29/classes.dex" />
+    </item>
+
+</items>
