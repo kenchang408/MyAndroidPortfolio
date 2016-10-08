@@ -9,68 +9,65 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:screenOrientation="portrait"
+    android:orientation="vertical"
     tools:context="com.example.piggy.myportfolio.MainActivity">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:orientation="vertical">
+        android:padding="16dp"
+        android:text="@string/welcome_msg"
+        android:textSize="24sp"
+        android:textColor="@color/colorButton"
+        android:textAlignment="center" />
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:padding="16dp"
-            android:text="@string/welcome_msg"
-            android:textSize="24sp"
-            android:textColor="@color/colorButton"
-            android:textAlignment="center" />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="@string/proj1_title"
-            android:id="@+id/proj1_bt"
-            android:onClick="launchProj1"/>
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="@string/proj2_title"
-            android:id="@+id/proj2_bt"
-            android:onClick="launchProj2"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
 
-        <Button
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="@string/proj3_title"
-            android:id="@+id/proj3_bt"
-            android:onClick="launchProj3"/>
+            android:layout_height="match_parent"
+            android:orientation="vertical">
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="@string/proj4_title"
-            android:id="@+id/proj4_bt"
-            android:onClick="launchProj4"/>
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="@string/proj5_title"
-            android:id="@+id/proj5_bt"
-            android:onClick="launchProj5"/>
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/proj1_title"
+                android:id="@+id/proj1_bt"
+                android:onClick="launchProj1"/>
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/proj2_title"
+                android:id="@+id/proj2_bt"
+                android:onClick="launchProj2"/>
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="@string/proj6_title"
-            android:id="@+id/proj6_bt"
-            android:onClick="launchProj6"/>
-    </LinearLayout>
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/proj3_title"
+                android:id="@+id/proj3_bt"
+                android:onClick="launchProj3"/>
+
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/proj4_title"
+                android:id="@+id/proj4_bt"
+                android:onClick="launchProj4"/>
+
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/proj5_title"
+                android:id="@+id/proj5_bt"
+                android:onClick="launchProj5"/>
+
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/proj6_title"
+                android:id="@+id/proj6_bt"
+                android:onClick="launchProj6"/>
+        </LinearLayout>
+
+    </ScrollView>
 </LinearLayout>
